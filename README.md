@@ -1,2 +1,2 @@
 # Ransomware-simulation
-Repo contains the x64 Bit ransomware binary. If you want to lock yourself out of your computer, DOWNLOAD AND RUN IT!
+The Repo contains a not-so-harmful x64-bit WannaCry ransomware binary. If you want to lock yourself out of your computer, DOWNLOAD AND RUN IT!
